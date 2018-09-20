@@ -1,0 +1,26 @@
+_repo: Pulp-and-Paper-Magazine-Vol-XIII-No-20-October-15-1916-A-Semi-Monthly-Magazine-Devoted-to-the__52931
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2016-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paper industry -- Periodicals'
+- !lcc 'TS'
+- !lcsh 'Wood-pulp industry -- Periodicals'
+- GITenberg
+title: "Pulp and Paper Magazine, Vol. XIII, No. 20, October 15, 1916\r\nA Semi-Monthly\
+  \ Magazine Devoted to the Science and Practice of the Pulp and Paper Manufacturing\
+  \ Industry with an Up-to-date Review of Conditions in the Allied Trades."
+url: http://www.gutenberg.org/ebooks/52931
